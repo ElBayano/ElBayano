@@ -6,10 +6,6 @@
 >Atualmente trabalho em um comércio do ramo automotivo, mas estou na busca de migração para a área da tecnologia.
 
 
-🔭 Escreva algum projeto que você desenvolveu ou que atualmente esteja trabalhando nele.
-
-💬 Escreva uma mensagem para que as pessoas entrem em contato com você, ou te faça perguntas.
-
 ---
 
 ## 🚀 Minhas Skills em Desenvolvimento
