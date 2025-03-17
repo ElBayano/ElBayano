@@ -2,7 +2,7 @@
 
 >Programador Web front-end
 >Sempre fui apaixonado pela tecnologia e informática e descobri uma paixão pelo mundo da programação. Estou determinado na busca de novas oportunidades na área.
->Já trabalhei de maneira informal (sem carteira assinada) como instrutor de informática e Design Gráfico num curso no meu bairro dos 13 aos 16 anos (Sim, fui tão bem como aluno que me contrataram, mesmo tão novo).
+>Já trabalhei de maneira informal (sem carteira assinada) como instrutor de informática e Design Gráfico num curso no meu bairro dos quando mais novo.
 >Atualmente trabalho em um comércio do ramo automotivo, mas estou na busca de migração para a área da tecnologia.
 
 
